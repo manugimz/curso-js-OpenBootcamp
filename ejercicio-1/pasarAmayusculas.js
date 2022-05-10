@@ -1,0 +1,3 @@
+/*Como segundo ejercicio, tienes que crear otra variable con una cadena de texto y convertir todo el contenido de la cadena a mayúsculas y lo mostraréis por consola. */
+let str_min = 'Un gato empieza a ladrar en el tejado de una casa. Otro gato, sorprendido, le dice: Estás loco gato, ¿por qué ladras en vez de maullar? El gatito le responde: ¿A caso no puedo aprender otro idioma?'
+console.log(str_min.toUpperCase());
