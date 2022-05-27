@@ -1,0 +1,13 @@
+{
+  "name": "modulo-10-librerias-externas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Manuel Gimenez",
+  "license": "ISC"
+}
